@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "picture": "link",
+      "url": "link",
+      "price": 123.45,
+      "discount": 30
+    },
+    {
+      "id": 2,
+      "picture": "link",
+      "url": "link",
+      "price": 123.45,
+      "discount": 30
+    },
+    {
+      "id": 3,
+      "picture": "link",
+      "url": "link",
+      "price": 123.45,
+      "discount": 30
+    }
+  ]
+}
