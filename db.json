@@ -2,6 +2,7 @@
   "products": [
     {
       "id": 1,
+      "title": "pants",
       "picture": "link",
       "url": "link",
       "price": 123.45,
@@ -9,6 +10,7 @@
     },
     {
       "id": 2,
+      "title": "shirt",
       "picture": "link",
       "url": "link",
       "price": 123.45,
@@ -16,6 +18,7 @@
     },
     {
       "id": 3,
+      "title": "hat",
       "picture": "link",
       "url": "link",
       "price": 123.45,
